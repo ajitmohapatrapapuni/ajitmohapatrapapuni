@@ -89,9 +89,6 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codeash007&label=Profile%20views&color=8b5cf6&style=flat" alt="Profile Views" />
   
   <br><br>
   
