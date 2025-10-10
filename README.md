@@ -5,7 +5,7 @@
 
 **`Full-Stack Web Developer · Freelancer · Computer Science`**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;Tech+Enthusiast;BCA+3rd+Year+Student;UI%2FUX+Optimization+Expert;Building+Creative+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;Tech+Enthusiast;UI%2FUX+Optimization+Expert;Building+Creative+Solutions" alt="Typing SVG" />
 
 I'm a passionate web developer and tech enthusiast building creative and functional projects. Currently i am a graduate web developer. Focused on creating intelligent, user-friendly solutions that empower organizations with innovative digital systems.
 
