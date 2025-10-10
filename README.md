@@ -89,7 +89,7 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 </div>
 
 ---
-  
+<div align="center">
   <br><br>
   
   <div style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 15px; padding: 20px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1); display: inline-block;">
