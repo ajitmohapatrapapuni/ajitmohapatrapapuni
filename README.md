@@ -76,55 +76,6 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<div align="center">
-  <table style="border-collapse: separate; border-spacing: 20px;">
-    <tr>
-      <td width="50%" align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 20px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://youtu.be/DpEBWfklM70" target="_blank">
-          <img src="https://img.youtube.com/vi/DpEBWfklM70/maxresdefault.jpg" width="300" height="169" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); filter: brightness(1.1);" alt="ChatGPT 5 Pro FREE & Unlimited Access" />
-        </a>
-        <br><br>
-        <a href="https://youtu.be/DpEBWfklM70" target="_blank">
-          <img src="https://img.shields.io/badge/▶️_ChatGPT_5_Pro_FREE-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1e293b" alt="ChatGPT 5 Pro FREE & Unlimited Access" style="border-radius: 8px; box-shadow: 0 8px 20px rgba(139, 92, 246, 0.4);"/>
-        </a>
-      </td>
-      <td width="50%" align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 20px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://youtu.be/VtvG7eUx93w" target="_blank">
-          <img src="https://img.youtube.com/vi/VtvG7eUx93w/maxresdefault.jpg" width="300" height="169" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); filter: brightness(1.1);" alt="10 FREE AI Courses 2025" />
-        </a>
-        <br><br>
-        <a href="https://youtu.be/VtvG7eUx93w" target="_blank">
-          <img src="https://img.shields.io/badge/▶️_10_FREE_AI_Courses-3B82F6?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1e293b" alt="10 FREE AI Courses 2025" style="border-radius: 8px; box-shadow: 0 8px 20px rgba(59, 130, 246, 0.4);"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 20px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://youtu.be/5-6VSFqB-TQ" target="_blank">
-          <img src="https://img.youtube.com/vi/5-6VSFqB-TQ/maxresdefault.jpg" width="300" height="169" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); filter: brightness(1.1);" alt="FREE Bulk AI Image Generator" />
-        </a>
-        <br><br>
-        <a href="https://youtu.be/5-6VSFqB-TQ" target="_blank">
-          <img src="https://img.shields.io/badge/▶️_FREE_Bulk_AI_Generator-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1e293b" alt="FREE Bulk AI Image Generator" style="border-radius: 8px; box-shadow: 0 8px 20px rgba(139, 92, 246, 0.4);"/>
-        </a>
-      </td>
-      <td width="50%" align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 20px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://youtu.be/3SQuAE8WwBw" target="_blank">
-          <img src="https://img.youtube.com/vi/3SQuAE8WwBw/maxresdefault.jpg" width="300" height="169" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); filter: brightness(1.1);" alt="FREE Gemini Pro + Veo 3" />
-        </a>
-        <br><br>
-        <a href="https://youtu.be/3SQuAE8WwBw" target="_blank">
-          <img src="https://img.shields.io/badge/▶️_FREE_Gemini_Pro-3B82F6?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1e293b" alt="FREE Gemini Pro + Veo 3" style="border-radius: 8px; box-shadow: 0 8px 20px rgba(59, 130, 246, 0.4);"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📊 Stats
 
 <div align="center">
@@ -160,40 +111,6 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 </div>
 
 ---
-
-### 🎯 Featured Projects
-
-<div align="center">
-  <table style="border-collapse: separate; border-spacing: 20px;">
-    <tr>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://github.com/codeash007/Modern-PortFolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=Modern-PortFolio&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Modern Portfolio" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
-        </a>
-      </td>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://github.com/codeash007/Ai_powered-fitness">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=Ai_powered-fitness&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="AI Powered Fitness" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://github.com/codeash007/Krishan-Janmashtami">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=Krishan-Janmashtami&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Krishan Janmashtami" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
-        </a>
-      </td>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://github.com/codeash007/heart-animation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=heart-animation&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Heart Animation" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 🤝 Connect with Me
 
 <div align="center">
