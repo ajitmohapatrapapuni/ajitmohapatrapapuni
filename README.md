@@ -76,39 +76,6 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-  <table style="border-collapse: separate; border-spacing: 20px;">
-    <tr>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 20px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://img.shields.io/github/followers/codeash007?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=1e293b" alt="GitHub Followers" style="border-radius: 8px; box-shadow: 0 8px 20px rgba(139, 92, 246, 0.4);"/>
-      </td>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 20px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://img.shields.io/github/stars/codeash007?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=3B82F6&labelColor=1e293b" alt="GitHub Stars" style="border-radius: 8px; box-shadow: 0 8px 20px rgba(59, 130, 246, 0.4);"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <table style="border-collapse: separate; border-spacing: 20px;">
-    <tr>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://github-readme-stats.vercel.app/api?username=codeash007&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" height="180" alt="Ashish's GitHub Stats" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
-      </td>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeash007&theme=tokyonight&border_radius=15&background=1e293b&stroke=8b5cf6&ring=3b82f6&fire=8b5cf6&currStreakLabel=ffffff" height="180" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <div style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1); display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeash007&layout=compact&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
-  </div>
-</div>
 
 ---
 ### 🤝 Connect with Me
