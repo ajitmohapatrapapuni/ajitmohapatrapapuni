@@ -76,45 +76,6 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 ---
 
-
----
-### 🤝 Connect with Me
-
-<div align="center">
-  <table style="border-collapse: separate; border-spacing: 15px;">
-    <tr>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 15px; padding: 10px; box-shadow: 0 10px 25px rgba(255, 0, 0, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://www.youtube.com/@codeash007?sub_confirmation=1" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1e293b" alt="YouTube" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(255, 0, 0, 0.3);"/>
-        </a>
-      </td>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 15px; padding: 10px; box-shadow: 0 10px 25px rgba(228, 64, 95, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://www.instagram.com/codeash.007/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e293b" alt="Instagram" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(228, 64, 95, 0.3);"/>
-        </a>
-      </td>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 15px; padding: 10px; box-shadow: 0 10px 25px rgba(44, 165, 224, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://t.me/codeash1430" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1e293b" alt="Telegram" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(44, 165, 224, 0.3);"/>
-        </a>
-      </td>
-      <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 15px; padding: 10px; box-shadow: 0 10px 25px rgba(209, 72, 54, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="mailto:ashishdubey76488@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" alt="Gmail" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(209, 72, 54, 0.3);"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,12,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" />
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
