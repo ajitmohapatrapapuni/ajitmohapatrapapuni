@@ -12,16 +12,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate dark snake
+      - name: Generate custom dark snake
         uses: Platane/snk@v3
         with:
           github_user_name: ajitmohapatrapapuni
 
-          # 👇 THIS REMOVES WHITE GRID
+          # 👇 GRID BLACK, COMMITS GREEN
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=#22c55e&color_dots=#22c55e,#16a34a,#15803d,#166534
+            dist/snake-dark.svg?palette=github-dark
+            &color_snake=#22c55e
+            &color_dots=#0d1117,#22c55e,#16a34a,#15803d,#166534
 
-      - name: Push snake
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
