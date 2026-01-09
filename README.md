@@ -90,7 +90,7 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ajitmohapatrapapuni/ajitmohapatrapapuni/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ajitmohapatrapapuni/ajitmohapatrapapuni/output/snake-dark.svg" />
 
 </div>
 
