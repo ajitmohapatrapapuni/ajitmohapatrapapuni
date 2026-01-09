@@ -90,11 +90,7 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 <div align="center">
 
-<!-- Light mode -->
-<img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ajitmohapatrapapuni/ajitmohapatrapapuni/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-
-<!-- Dark mode -->
-<img alt="github contribution grid snake dark" src="https://raw.githubusercontent.com/ajitmohapatrapapuni/ajitmohapatrapapuni/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/ajitmohapatrapapuni/ajitmohapatrapapuni/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
