@@ -12,15 +12,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
+      - name: Generate dark snake
         uses: Platane/snk@v3
         with:
           github_user_name: ajitmohapatrapapuni
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push snake to output branch
+          # 👇 THIS REMOVES WHITE GRID
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#22c55e&color_dots=#22c55e,#16a34a,#15803d,#166534
+
+      - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
