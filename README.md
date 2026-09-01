@@ -1,104 +1,140 @@
+# Portfolio
+- [About me](#about-me)
+- [CV](#cv)
+- [Skills](#skills)
+- [Tools](#tools)
+- [Courses](#courses)
+- [Examples of my work](#examples-of-my-work)
+  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
+  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
+- [Books I have read](#books-i-have-read)
 
-<div align="center">
+## About me
 
-# 🚀 Ajit Mohaptra
+I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
 
-**`Full-Stack Web Developer · Freelancer · Computer Science`**
+I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;Tech+Enthusiast;UI%2FUX+Optimization+Expert;Building+Creative+Solutions" alt="Typing SVG" />
+Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
-I'm a passionate web developer and tech enthusiast building creative and functional projects. Currently i am a graduate web developer. Focused on creating intelligent, user-friendly solutions that empower organizations with innovative digital systems.
+I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
-</div>
+## CV
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
 
----
+## Skills
 
-### 🛠️ Tech Stack
+You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
-<div align="center">
-  <table style="border-collapse: separate; border-spacing: 15px;">
-    <tr>
-      <td align="center" width="120" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 16px; padding: 15px; box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular" style="filter: drop-shadow(0 0 10px rgba(221, 44, 0, 0.5));" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1e293b" alt="Angular" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(221, 44, 0, 0.3);"/>
-      </td>
-      <td align="center" width="120" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 16px; padding: 15px; box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" style="filter: drop-shadow(0 0 10px rgba(97, 218, 251, 0.5));" />
-        <br><br>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1e293b" alt="React" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(97, 218, 251, 0.3);"/>
-      </td>
-      <td align="center" width="120" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 16px; padding: 15px; box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" style="filter: drop-shadow(0 0 10px rgba(71, 162, 72, 0.5));" />
-        <br><br>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e293b" alt="MongoDB" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(71, 162, 72, 0.3);"/>
-      </td>
-      <td align="center" width="120" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 16px; padding: 15px; box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" style="filter: drop-shadow(0 0 10px rgba(55, 118, 171, 0.5));" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e293b" alt="Python" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(55, 118, 171, 0.3);"/>
-      </td>
-      <td align="center" width="120" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 16px; padding: 15px; box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" style="filter: drop-shadow(0 0 10px rgba(227, 79, 38, 0.5));" />
-        <br><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e293b" alt="HTML" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(227, 79, 38, 0.3);"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 16px; padding: 15px; box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" style="filter: drop-shadow(0 0 10px rgba(21, 114, 182, 0.5));" />
-        <br><br>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e293b" alt="CSS" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(21, 114, 182, 0.3);"/>
-      </td>
-      <td align="center" width="120" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 16px; padding: 15px; box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" style="filter: drop-shadow(0 0 10px rgba(247, 223, 30, 0.5));" />
-        <br><br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1e293b" alt="JavaScript" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(247, 223, 30, 0.3);"/>
-      </td>
-      <td align="center" width="120" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 16px; padding: 15px; box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" style="filter: drop-shadow(0 0 10px rgba(240, 80, 50, 0.5));" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e293b" alt="Git" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(240, 80, 50, 0.3);"/>
-      </td>
-      <td align="center" width="120" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 16px; padding: 15px; box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="SQL" style="filter: drop-shadow(0 0 10px rgba(68, 121, 161, 0.5));" />
-        <br><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1e293b" alt="SQL" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(68, 121, 161, 0.3);"/>
-      </td>
-      <td align="center" width="120" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 16px; padding: 15px; box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" style="filter: drop-shadow(0 0 10px rgba(104, 160, 99, 0.5));" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1e293b" alt="Node.js" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(104, 160, 99, 0.3);"/>
-      </td>
-    </tr>
-  </table>
-</div>
+__Manual testing__
+  * can perform manual functional and usability testing of web applications
+  * gained hands-on experience by testing applications created for educational purposes
 
----
+__Test analysis & design__
+  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
+  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+
+__API testing__
+  * know the difference between SOAP and REST APIs
+  * gained experience through manual testing of APIs created for educational purposes
+  * know how to manipulate requests and create test cases using the SoapUI tool
+
+__Exploratory testing__
+  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+
+__Test documentation__
+  * can create test cases and checklists and know how and in which situations to use them effectively
+  * able to prepare comprehensive bug reports and provide detailed session reports
+
+__SQL databases__
+  * can write complex requests using subqueries
+  * familiar with the use of aliases and wildcards
+  * know the difference between joins and unions and can use them in queries
+
+__Python fundamentals__
+  * can write simple functions and algorithms
+  * know when to use for and while
+  * able to comprehend easy codes
+
+## Tools
+
+__TestRail__
+  * know how to create test cases and test suits
+  * able to run created test cases
+  * know how to use dashboards and statistics
+
+__Jira__
+  * know how to create bug reports
+  * able to create projects and track their progress
+
+__SoapUI__
+
+__Browser developer tools__
+
+__VirtualBox__
+  * able to set up and operate virtual machines
+
+__Trello and Notion__
+  * know how to use Kanban boards and track project progress
+
+__Mind maps & diagrams__
+  * know how to design beautifully simple mind maps
+
+## Courses
+
+__Robot Framework Test Automation, Levels 1-4__  
+*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
+An intensive course in test automation with Robot Framework.  
+[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
+*Level 2-4 in progress*
+
+__The 1st Online Institute of Software Testing__  
+*online course by Quality Lab, Moscow, Russia*  
+A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
+[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+
+__Onboarding to Testing · Jedi Point__  
+*online course by Quality Lab, Moscow, Russia*  
+An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
+[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
 
 
-## Listening to
-<p align = "middle">
-<img width = '60.5%' src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d3ueeg2sx2hc6bc6etfnkz5uru&cover_image=true&theme=novatorem&show_offline=false&background_color=1c9b1c&interchange=true&bar_color=d03524&bar_color_cover=false"/>
-</a>
-</p>
-<br/>
+## Examples of my work
+
+### Test cases and work in TestRail
+
+- [The training webshop](http://automationpractice.com/) was used to create demo test cases
+  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
+  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+
+- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
+  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
+  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
+  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
 
 
+### Bug reports and work in Jira
 
-### 🐍 Contribution Snake
+- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
+  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
+  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
+  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
+* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
 
-<div align="center">
+### Mindmaps and diagrams
+* Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
+* State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
+* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://drive.google.com/file/d/1gbBCBGNyRJhp0DhFgFbpxrb9F2Zd5LnH/view?usp=sharing).
+* Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing).
 
-  <img src="https://raw.githubusercontent.com/ajitmohapatrapapuni/ajitmohapatrapapuni/output/snake-dark.svg" />
+### Scripts for PICT (pairwise testing)
 
-</div>
+* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
+* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
 
----
-<div align="center">
-  <br><br>
-  
-  <div style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 15px; padding: 20px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1); display: inline-block;">
-    <b style="color: white; font-size: 18px;">⭐ If you like my work, consider following and starring the repositories! ⭐</b>
-  </div>
-</div>
+## Books I have read
+__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
+
+__"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
