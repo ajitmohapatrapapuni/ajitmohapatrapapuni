@@ -13,13 +13,13 @@
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+Hi, I'm a QA Engineer who enjoys finding bugs, solving problems, and making web applications work better for users. I have experience in both manual and automation testing, using tools like Playwright to test applications and automate test cases.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+I enjoy exploring websites from a user's perspective, checking different scenarios, finding unexpected behavior, and figuring out how things can be improved. I also work on strengthening my skills in API testing with Postman and SQL to expand my knowledge of software testing.
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+For me, testing is not just about finding bugs. It's about understanding how an application should work, paying attention to the small details, and helping deliver a smooth user experience.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+I'm always eager to learn new tools, improve my testing skills, and take on new challenges that help me grow as a QA professional.
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/drive/folders/1Tizx5WkYwpHAnw7gKZTb2RhU1Y46HYbi?usp=sharing).
@@ -53,7 +53,7 @@ __SQL databases__
   * familiar with the use of aliases and wildcards
   * know the difference between joins and unions and can use them in queries
 
-__Python fundamentals__
+__JavaScript fundamentals__
   * can write simple functions and algorithms
   * know when to use for and while
   * able to comprehend easy codes
